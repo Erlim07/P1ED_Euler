@@ -1,0 +1,8 @@
+D:\Meus Documentos\Escola\Faculdade\Semestre 4\ED\caQuestao4\caQuestao4\bin\Debug\caQuestao4.exe.config
+D:\Meus Documentos\Escola\Faculdade\Semestre 4\ED\caQuestao4\caQuestao4\bin\Debug\caQuestao4.exe
+D:\Meus Documentos\Escola\Faculdade\Semestre 4\ED\caQuestao4\caQuestao4\bin\Debug\caQuestao4.pdb
+D:\Meus Documentos\Escola\Faculdade\Semestre 4\ED\caQuestao4\caQuestao4\obj\Debug\caQuestao4.csproj.AssemblyReference.cache
+D:\Meus Documentos\Escola\Faculdade\Semestre 4\ED\caQuestao4\caQuestao4\obj\Debug\caQuestao4.csproj.SuggestedBindingRedirects.cache
+D:\Meus Documentos\Escola\Faculdade\Semestre 4\ED\caQuestao4\caQuestao4\obj\Debug\caQuestao4.csproj.CoreCompileInputs.cache
+D:\Meus Documentos\Escola\Faculdade\Semestre 4\ED\caQuestao4\caQuestao4\obj\Debug\caQuestao4.exe
+D:\Meus Documentos\Escola\Faculdade\Semestre 4\ED\caQuestao4\caQuestao4\obj\Debug\caQuestao4.pdb
